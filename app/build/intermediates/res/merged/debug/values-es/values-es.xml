@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_list">
+        <item>Bajo</item>
+        <item>Aguda</item>
+        <item>Bajo y aguda</item>
+        <item>Centro</item>
+        <item>Piso</item>
+        <item>Danza</item>
+        <item>Roca</item>
+        <item>Pop</item>
+        <item>Usuario</item>
+    </string-array>
+    <string-array name="menu_list">
+        <item>Lista de reproducción</item>
+        <item>Álbumes</item>
+        <item>Artistas</item>
+        <item>Género</item>
+        <item>Música</item>
+    </string-array>
+    <string-array name="nb_column_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="action_settings">Preferencias</string>
+    <string name="active_color_alternate">Colores alternados</string>
+    <string name="active_color_alternate_summury">Muestra un color diferente cada línea</string>
+    <string name="active_dark_theme">Tema oscuro</string>
+    <string name="active_dark_theme_summary">El color de fondo es gris</string>
+    <string name="active_last_playlist">Grabación automática</string>
+    <string name="active_last_playlist_summury">Guarda la lista de reproducción cuando la aplicación se cierra o cuando la reproducción se ha completado</string>
+    <string name="add_and_play_now">Agregar y leer ahora</string>
+    <string name="add_in_list">Agregar a la lista de reproducción actual</string>
+    <string name="add_in_new_and_play">Añadir a una lista nueva</string>
+    <string name="add_in_new_and_play_quest">Esta acción eliminará de la lista actual. Desea continuar?</string>
+    <string name="app_name">Audio Player</string>
+    <string name="author">Autor: Julien Dumortier</string>
+    <string name="bad_url_to_image">La URL de la imagen no es correcto</string>
+    <string name="body">Su mensaje</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change">Color Siguiente</string>
+    <string name="cover_choice">Elección de imagen</string>
+    <string name="default_name">el nombre de la lista de reproducción está reservado para la grabación automática</string>
+    <string name="define">Ajuste del color</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_all_track_from_playlist">¿Desea detener la reproducción y borrar la lista?</string>
+    <string name="delete_playlist">Eliminar la lista de reproducción</string>
+    <string name="delete_playlist_quest">¿Quieres eliminar la lista de reproducción?</string>
+    <string name="delete_title">Cancelación</string>
+    <string name="delete_track_from_playlist">¿Quieres eliminar este tema?</string>
+    <string name="delete_tracks_from_playlist">¿Quieres eliminar estas pistas?</string>
+    <string name="dev_info_title">Acerca de Audio Player</string>
+    <string name="email_error">Por favor, introduzca una dirección e-mail válida</string>
+    <string name="empty_folder">No hay archivos</string>
+    <string name="end_playlist">La lista de reproducción se termina</string>
+    <string name="enter_playlist_name">Introduzca el nombre de la lista de reproducción</string>
+    <string name="enter_url_to_image">Introduzca el url de la imagen</string>
+    <string name="equalizer">Igualada</string>
+    <string name="exit_quest">¿Quieres salir?</string>
+    <string name="exit_title">Salga de la aplicación</string>
+    <string name="from">Su dirección de correo electrónico</string>
+    <string name="get_jacket">Descargar de cubierta del CD</string>
+    <string name="go_to_playstore">Ir a playstore</string>
+    <string name="good_url_to_image">La imagen se ha añadido correctamente</string>
+    <string name="infos">Esta aplicación se realizó con el objetivo principal de aprender a utilizar el MediaStore Android, sino también para ofrecer un reproductor de audio sencillo y funcional.</string>
+    <string name="last_playlist">Última lista de reproducción</string>
+    <string name="load">Carga…</string>
+    <string name="long_name">el nombre de la lista de reproducción es demasiado larga</string>
+    <string name="menu_delete">Vaciar lista de reproducción</string>
+    <string name="menu_parent_dir">Anterior</string>
+    <string name="menu_playlist">Lista de reproducción</string>
+    <string name="move">Mover</string>
+    <string name="my_dev_blog">Blog de Développement Personnel</string>
+    <string name="nb_column">Número de columnas</string>
+    <string name="nb_column_summary">Número de columnas para mostrar elementos</string>
+    <string name="new_playlist">Nueva</string>
+    <string name="new_pos">Nueva posición</string>
+    <string name="news_message">Esta nueva versión incluye una actualización del menú de configuración y la posibilidad de elección de la clasificación por número de pista o por orden alfabético. La próxima actualización incluirá una función de búsqueda.</string>
+    <string name="news_title">¡Novedad!</string>
+    <string name="no">No</string>
+    <string name="no_last">No pista anterior</string>
+    <string name="no_next">No pista siguiente</string>
+    <string name="ok">Presentar</string>
+    <string name="one">uno</string>
+    <string name="other_app">Otras aplicaciones</string>
+    <string name="play_all">Lea toda la música</string>
+    <string name="play_now">Leer ahora</string>
+    <string name="playlist_title">Lista de reproducción</string>
+    <string name="pref_display">Preferencias</string>
+    <string name="purchase">Si te gusta el uso de esta aplicación, usted puede me ayuda con la compra de la versión shareware. \ N Mi objetivo no es el lucro, la versión shareware es exactamente la misma que la versión gratuita. \ N Si me ayudas, la aplicación seguirá creciendo. \ n ¡Gracias!</string>
+    <string name="purchase_title">¿Te gusta esta aplicación? ¡Ayúdeme!</string>
+    <string name="replace_playlist">Reemplazar</string>
+    <string name="replace_playlist_quest">¿Desea reemplazar la lista de reproducción?</string>
+    <string name="save">Salvaguarde</string>
+    <string name="save_replace_or_new">¿Quieres crear una nueva copia de seguridad existente o reemplazar?</string>
+    <string name="saving">Salvaguardar</string>
+    <string name="select_playlist">Seleccione una lista de reproducción para aplastar</string>
+    <string name="send">¡Enviar!</string>
+    <string name="send_comment">Sugerencias de mejora</string>
+    <string name="set_cover_auto">Buscará automáticamente cubierta del CD</string>
+    <string name="set_cover_manually">Especificar la cubierta del CD manualmente</string>
+    <string name="setting_config">Comportamiento</string>
+    <string name="setting_purchase_title">Ayúdeme</string>
+    <string name="short_name">el nombre de la lista de reproducción es demasiado corto</string>
+    <string name="show_cover_menu">cubierta del CD opciones</string>
+    <string name="show_cover_menu_summary">Mostrar botones de edición cubierta del CD</string>
+    <string name="sort">Clasificación de las pistas</string>
+    <string name="sort_alpha">orden alfabético</string>
+    <string name="sort_number">ordenar por número de pista</string>
+    <string name="sort_summary">Tipo de clasificación de las pistas</string>
+    <string name="subject">Tema</string>
+    <string name="swipe_to_choice">arrastre hacia la derecha para elegir</string>
+    <string name="text">Texto</string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="theme_color">Color del tema:</string>
+    <string name="three">tres</string>
+    <string name="title_action_playlist">Acción</string>
+    <string name="two">dos</string>
+    <string name="unknow_album">Álbumes desconocido </string>
+    <string name="unknow_artist">Artista desconocido</string>
+    <string name="version">Versión: v2.4.0</string>
+    <string name="view_config">Mostrar</string>
+    <string name="yes">Sí</string>
+</resources>

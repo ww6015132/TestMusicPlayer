@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_violet_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_violet_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_bleu_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_bleu_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_turq.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_turq.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\orange_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_turq_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_turq_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_vert_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_vert_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_red_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_red_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disable_red.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disable_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_bleu.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_bleu.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_orange.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_orange.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rouge_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\rouge_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_dark.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vert_pomme_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\vert_pomme_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_red.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_orange_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_orange_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_violet.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_violet.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_vert.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_vert.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bleu_vert_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\bleu_vert_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_turq.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_turq.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_red.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\violet_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\violet_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_dark.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_vert.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_vert.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bleu_vert_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\bleu_vert_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\orange_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disable_violet.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disable_violet.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_bleu.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_bleu.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rouge_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\rouge_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_orange_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_orange_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\classique_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\classique_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_dark_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_dark_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_disable.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_active_orange.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_active_orange.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disable_vert.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disable_vert.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\classique_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\classique_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disable_bleu.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disable_bleu.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_violet.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_violet.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_orange.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_orange.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\violet_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\violet_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_red.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_turq.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_turq.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_red.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_violet.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_violet.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_violet.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_violet.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\violet_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\violet_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_dark_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_dark_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_vert.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_vert.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_turq_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_turq_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rouge_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\rouge_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_turq.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_turq.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_bleu_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_bleu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\classique_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\classique_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_vert_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_vert_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disable_turq.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disable_turq.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_pressed_bleu.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_pressed_bleu.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bleu_vert_pressed.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\bleu_vert_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_violet_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_violet_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vert_pomme_selected.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\vert_pomme_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_activated_bleu.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\switch_activated_bleu.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_vert.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_vert.9.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\orange_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vert_pomme_default.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\vert_pomme_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumb_red_disable.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\thumb_red_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_on_dark.9.png",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\drawable-xhdpi\\seek_on_dark.9.png"
+    }
+]

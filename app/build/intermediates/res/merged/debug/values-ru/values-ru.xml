@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_list">
+        <item>Низкие частоты</item>
+        <item>Высокие частоты</item>
+        <item>Низкие и высокие частоты</item>
+        <item>Средние частоты</item>
+        <item>Ровный</item>
+        <item>Танцевальный</item>
+        <item>Рок</item>
+        <item>Поп</item>
+        <item>Пользовательский</item>
+    </string-array>
+    <string-array name="menu_list">
+        <item>Списки воспроизведения</item>
+        <item>Альбомы</item>
+        <item>Артисты</item>
+        <item>Жанры</item>
+        <item>Все дорожки</item>
+    </string-array>
+    <string-array name="nb_column_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="action_settings">Настройки</string>
+    <string name="active_color_alternate">чередование цветов</string>
+    <string name="active_color_alternate_summury">Выполнен в разных цветах каждая вторая линия</string>
+    <string name="active_dark_theme">темная тема</string>
+    <string name="active_dark_theme_summary">Фоновый цвет серый</string>
+    <string name="active_last_playlist">автозапись списка</string>
+    <string name="active_last_playlist_summury">Сохраняет плейлист при закрытии приложения</string>
+    <string name="add_and_play_now">Добавить и воспроизвести сейчас</string>
+    <string name="add_in_list">Добавить в текущий список воспроизведения</string>
+    <string name="add_in_new_and_play">Добавить в новый список воспроизведения</string>
+    <string name="add_in_new_and_play_quest"> Это действие удалит текущий список, вы хотите продолжить?</string>
+    <string name="app_name">Audio Player</string>
+    <string name="author">Автор: Julien Dumortier</string>
+    <string name="bad_url_to_image">Неправильный url изображения</string>
+    <string name="body">Ваше сообщение</string>
+    <string name="cancel">Закрыть</string>
+    <string name="change">Следующий цвет</string>
+    <string name="cover_choice">Выбор обложки</string>
+    <string name="default_name">имя списка воспроизведения предназначено для автозаписи</string>
+    <string name="define">Выберете цвет</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_all_track_from_playlist">Вы хотите остановить воспроизведение и очистить список ?</string>
+    <string name="delete_playlist">Удалить список воспроизведения</string>
+    <string name="delete_playlist_quest">Вы хотите удалить список воспроизведения ?</string>
+    <string name="delete_title">Удаление</string>
+    <string name="delete_track_from_playlist">Вы хотите удалить эту дорожку ?</string>
+    <string name="delete_tracks_from_playlist">Вы хотите удалить эти дорожки?</string>
+    <string name="dev_info_title">Об Audio Player</string>
+    <string name="email_error">Пожалуйста, введите действительный адрес электронной почты</string>
+    <string name="empty_folder">Нет файлов</string>
+    <string name="end_playlist">Список воспроизведения окончен</string>
+    <string name="enter_playlist_name">Введите имя списка воспроизведения</string>
+    <string name="enter_url_to_image">Введите url обложки</string>
+    <string name="equalizer">эквалайзер</string>
+    <string name="exit_quest">Вы хотите выйти из приложения ?</string>
+    <string name="exit_title">Выйти</string>
+    <string name="from">Ваш адрес</string>
+    <string name="get_jacket">восстановление обложек</string>
+    <string name="go_to_playstore">идти playstore</string>
+    <string name="good_url_to_image">Обложка сохранена</string>
+    <string name="infos">Это приложение было создано в первую очередь для обучения использованию MediaStore Android, но и обеспечило простой и функциональный аудиоплеер.</string>
+    <string name="last_playlist">Предыдущий список воспроизведения</string>
+    <string name="load">Загрузка…</string>
+    <string name="long_name">имя списка воспроизведения слишком длинное</string>
+    <string name="menu_delete">Пустой список воспроизведения</string>
+    <string name="menu_parent_dir">Предыдущий</string>
+    <string name="menu_playlist">Список воспроизведения</string>
+    <string name="move">Переместить</string>
+    <string name="my_dev_blog">Собственный блог разработчика</string>
+    <string name="nb_column">Количество столбцов</string>
+    <string name="nb_column_summary">Количество столбцов для отображения элементов</string>
+    <string name="new_playlist">Новый</string>
+    <string name="new_pos">Новая позиция</string>
+    <string name="news_message">Эта новая версия включает в себя обновление меню конфигурации и возможность выбора сортировки по номеру дорожки или по алфавиту. Следующее обновление будет включать в себя функцию поиска.</string>
+    <string name="news_title">новости !</string>
+    <string name="no">Нет</string>
+    <string name="no_last">Нет предыдущей дорожки</string>
+    <string name="no_next">Нет следующей дорожки</string>
+    <string name="ok">OK</string>
+    <string name="one">один</string>
+    <string name="other_app">Другие приложения</string>
+    <string name="play_all">Воспроизвести все дорожки</string>
+    <string name="play_now">Воспроизводится сейчас</string>
+    <string name="playlist_title">Список воспроизведения</string>
+    <string name="pref_display">Настройки</string>
+    <string name="purchase">Если Вам нравится с помощью этого приложения, вы можете помочь мне при покупке условно-бесплатную версию.\nМоя цель не прибыль, условно-бесплатной версии в точности такой же, как в бесплатной версии.\nЕсли вы мне помочь, приложение будет по-прежнему расти.\nСпасибо!</string>
+    <string name="purchase_title">Как это приложение? Помогите мне</string>
+    <string name="replace_playlist">Переместить</string>
+    <string name="replace_playlist_quest">Вы хотите переместить список воспроизведения ?</string>
+    <string name="save">Сохранить</string>
+    <string name="save_replace_or_new"> Вы хотите создать новый список воспроизведения или заменить существующий ?</string>
+    <string name="saving">Сохранение</string>
+    <string name="select_playlist">Выберете список произведения для перемещения</string>
+    <string name="send">Отправлено !</string>
+    <string name="send_comment">Предложения по улучшению</string>
+    <string name="set_cover_auto">Поиск обложек CD</string>
+    <string name="set_cover_manually">Определить обложку альбома вручную</string>
+    <string name="setting_config">поведение</string>
+    <string name="setting_purchase_title">Помогите мне</string>
+    <string name="short_name">имя списка воспроизведения слишком короткое</string>
+    <string name="show_cover_menu">опции редактирования обложки CD</string>
+    <string name="show_cover_menu_summary">Показать редактирования кнопки обложки CD</string>
+    <string name="sort">Тип сортировки</string>
+    <string name="sort_alpha">порядок алфавиту</string>
+    <string name="sort_number">заказать по номеру дорожки</string>
+    <string name="sort_summary">Тип сортов для отображения трека</string>
+    <string name="subject">Тема</string>
+    <string name="swipe_to_choice">Скользните рукой направо для выбора</string>
+    <string name="text">Текст</string>
+    <string name="thank_you">Спасибо !</string>
+    <string name="theme_color">Цвет темы:</string>
+    <string name="three">три</string>
+    <string name="title_action_playlist">Действие</string>
+    <string name="two">два</string>
+    <string name="unknow_album">Неизвестный альбом</string>
+    <string name="unknow_artist">Неизвестный артист</string>
+    <string name="version">Версия: v2.4.0</string>
+    <string name="view_config">отображать</string>
+    <string name="yes">Да</string>
+</resources>

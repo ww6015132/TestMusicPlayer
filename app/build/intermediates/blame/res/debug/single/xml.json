@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\audio_player_widgetprovider_2x2.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\xml\\audio_player_widgetprovider_2x2.xml"
+    }
+]

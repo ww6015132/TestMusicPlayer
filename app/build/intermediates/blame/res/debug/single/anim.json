@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_dialog_confirm_exit.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\show_dialog_confirm_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim3.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\scale_anim3.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_screen_translate.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\splash_screen_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim2.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\scale_anim2.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_animation.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\rotate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dismiss_dialog_confirm_exit.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\dismiss_dialog_confirm_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim1.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\scale_anim1.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    }
+]

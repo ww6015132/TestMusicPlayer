@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:icon="@drawable/ic_menu_preferences">
+ 	
+    <PreferenceCategory android:title="@string/view_config" >
+        <fr.julien_dumortier.simplemusicplayer.thememanager.ColorPreferences  
+                android:key="theme_color" />
+        
+        <ListPreference
+            android:key="nb_column"
+            android:entries="@array/nb_column_entries"
+            android:summary="@string/nb_column_summary"
+            android:entryValues="@array/nb_column_values"
+            android:title="@string/nb_column" />
+        
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="active_last_playlist"
+            android:summary="@string/active_last_playlist_summury"
+            android:title="@string/active_last_playlist" />
+                
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="active_color_alternate"
+            android:summary="@string/active_color_alternate_summury"
+            android:title="@string/active_color_alternate" />
+        
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="active_dark_theme"
+            android:summary="@string/active_dark_theme_summary"
+            android:title="@string/active_dark_theme" />
+    </PreferenceCategory>
+     
+    <PreferenceCategory android:title="@string/setting_config" >
+ 
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="show_cover_menu"
+            android:summary="@string/show_cover_menu_summary"
+            android:title="@string/show_cover_menu" />
+        
+        <ListPreference
+            android:key="sort_type"
+            android:entries="@array/sort_entries"
+            android:summary="@string/sort_summary"
+            android:entryValues="@array/sort_values"
+            android:title="@string/sort" />
+        
+    </PreferenceCategory>
+    
+    <Preference 
+        android:key="purchase"   
+        android:title="@string/setting_purchase_title">                     
+    </Preference>
+    
+    <Preference 
+        android:key="about"   
+        android:title="@string/dev_info_title">                     
+    </Preference>
+ 
+</PreferenceScreen>

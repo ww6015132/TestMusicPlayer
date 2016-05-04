@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dark_layout_item.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\dark_layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\playlist_manager.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\playlist_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\exit_layout.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\exit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\statusbar.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\statusbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\notification_layout.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\notification_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layout_item.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\full_screen_player.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\full_screen_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layout_item_track.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\layout_item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\action_bar_track_detail.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\action_bar_track_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dark_layout_item_track.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-large\\dark_layout_item_track.xml"
+    }
+]

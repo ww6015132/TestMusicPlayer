@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_violet.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_violet.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_dark.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_orange.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_turq.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_turq.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_vert.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_bleu.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_bleu.xml"
+    },
+    {
+        "merged": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\switch_button_red.xml",
+        "source": "C:\\Users\\wei\\Desktop\\twistjam\\audioplayer1\\app\\src\\main\\res\\layout-v14\\switch_button_red.xml"
+    }
+]

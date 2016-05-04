@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:inAnimation="@android:anim/fade_in"
+    android:gravity="center"
+    android:id="@+id/widget"
+    > 
+    
+    <ImageView android:id="@+id/background_widget"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:src="@drawable/background_widget"
+    	android:scaleType="centerInside"
+    />
+    <ImageView android:id="@+id/fronground_widget"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:src="@drawable/frontground_widget"
+    	android:scaleType="centerInside"
+    />
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+	        <RelativeLayout 
+			    	android:layout_width="wrap_content"
+			    	android:layout_weight="11.65"
+			    	android:layout_height="0dip"
+			    />
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="0dip"
+		        android:layout_weight="27.6"
+		        android:orientation="horizontal"
+		        android:weightSum="100">
+			    <ImageView android:id="@+id/last_widget"
+			        android:visibility="invisible"
+			    	android:layout_width="0dip"
+			    	android:layout_weight="27.6"
+			    	android:layout_height="wrap_content"
+			    	android:src="@drawable/last_widget"
+			    	android:scaleType="centerInside"
+			    />
+    		</LinearLayout>
+    
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+	        <RelativeLayout 
+			    	android:layout_width="wrap_content"
+			    	android:layout_weight="61.3"
+			    	android:layout_height="0dip"
+			    />
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="0dip"
+		        android:layout_weight="27.3"
+		        android:orientation="horizontal"
+		        android:weightSum="100">
+		        <RelativeLayout 
+				    	android:layout_width="0dip"
+				    	android:layout_weight="70"
+				    	android:layout_height="wrap_content"
+				    />
+			    <ImageView android:id="@+id/next_widget"
+			        android:visibility="invisible"
+			    	android:layout_width="0dip"
+			    	android:layout_weight="27.6"
+			    	android:layout_height="wrap_content"
+			    	android:src="@drawable/next_widget"
+			    	android:scaleType="centerInside"
+			    />
+    		</LinearLayout>
+    
+    </LinearLayout>
+</RelativeLayout>

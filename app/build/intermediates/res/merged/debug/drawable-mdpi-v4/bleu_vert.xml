@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item 
+    	android:drawable="@drawable/bleu_vert_default"/>
+   <item android:state_pressed="true" 
+    	android:drawable="@drawable/bleu_vert_pressed"/>
+</selector>

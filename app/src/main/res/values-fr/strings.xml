@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_list">
+        <item>Basses</item>
+        <item>Aigus</item>
+        <item>Basses et aigus</item>
+        <item>Moyen</item>
+        <item>Plat</item>
+        <item>Dance</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Utilisateur</item>
+    </string-array>
+    <string-array name="menu_list">
+        <item>Playlists</item>
+        <item>Albums</item>
+        <item>Artistes</item>
+        <item>Genres</item>
+        <item>Musiques</item>
+    </string-array>
+    
+    
+    <string-array name="nb_column_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+    <string name="sort_number">ordre par numéros de piste</string>
+    <string name="sort_alpha">ordre alphabétique des noms de piste</string>
+    <string name="sort_summary">Type de tris pour l\'affichage des pistes</string>
+    <string name="sort">Tris des pistes</string>
+        
+    <string name="view_config">Affichage</string>
+    <string name="nb_column_summary">Nombre de colonnes pour l\'affichage des éléments</string>
+    <string name="active_last_playlist_summury">Enregistre la playlist courrante lorsque l\'application se ferme ou quand la liste de lecture est terminée</string>
+    <string name="active_color_alternate_summury">Affiche une couleur différente une ligne sur deux</string>
+    <string name="active_dark_theme_summary">La couleur de fond devient grise</string>
+    <string name="show_cover_menu_summary">Afficher les boutons permettant d\'éditer les jaquettes CD</string>
+    <string name="setting_config">Comportement</string>
+        
+    <string name="news_title">Nouveautées !</string>
+    <string name="news_message">Cette nouvelle version comporte une mise à jour du menu de configuration et une possibilité de choix de tris par numéro de piste ou par ordre alphabétique. La prochaine mise à jour comportera une fonction de recherche.</string>
+    
+    <string name="purchase_title">Vous aimez cette application ? Aidez moi</string>
+    <string name="purchase">Si vous aimez utiliser cette application, vous pouvez m\'aider en achetant la version payante.\nMon but n\'étant pas lucratif, la version payante est strictement la même que la version gratuite.\nSi vous m\'aidez, l\'application va encore grandir.\nMerci !</string>
+    <string name="go_to_playstore">Aller au playstore</string>
+    <string name="setting_purchase_title">Aidez moi</string>
+    
+    <string name="equalizer">Egaliseur</string>
+    <string name="one">une</string>
+    <string name="two">deux</string>
+    <string name="three">trois</string>
+    
+    <string name="show_cover_menu">Edition de jaquette cd</string>
+    <string name="unknow_artist">Artiste inconnu</string>
+    <string name="unknow_album">Album inconnu</string>
+    <string name="swipe_to_choice">Glissez sur la droite pour choisir</string>
+    <string name="cover_choice">Choix de l\'image</string>
+    <string name="get_jacket">récupération des jaquettes</string>
+    <string name="set_cover_auto">Rerchercher automatiquement les jaquettes</string>
+    <string name="bad_url_to_image">L\'url vers l\'image est incorrecte</string>
+    <string name="good_url_to_image">L\'image a été ajoutée correctement</string>
+    <string name="enter_url_to_image">Entrez l\'url vers l\'image</string>
+    <string name="set_cover_manually">Définir la jaquette manuellement</string>
+	<string name="thank_you">Merci !</string>
+    <string name="email_error">Veuillez entrer une adresse email valide</string>
+	<string name="body">Votre message</string>
+	<string name="subject">Sujet</string>
+	<string name="from">Votre adresse email</string>
+	<string name="send_comment">Suggestion d\'amélioration</string>
+	<string name="send">Envoyer !</string>
+	<string name="app_name">Audio Player</string>
+    <string name="action_settings">Préférences</string>
+    <string name="menu_playlist">Liste de lecture</string>
+    <string name="menu_parent_dir">Précédent</string>
+    <string name="play_now">Lire maintenant</string> 
+	<string name="move">Déplacer</string>
+	<string name="delete">Supprimer</string>
+	<string name="yes">Oui</string>
+	<string name="no">Non</string>
+	<string name="cancel">Annuler</string>
+	<string name="title_action_playlist">Action</string>
+	<string name="delete_title">Suppression</string>
+	<string name="delete_track_from_playlist">Voulez-vous supprimer cette piste ?</string>
+	<string name="delete_tracks_from_playlist">Voulez-vous supprimer ces pistes ?</string>
+	<string name="delete_all_track_from_playlist">Voulez-vous arrêter la lecture et vider la liste ?</string>
+	<string name="end_playlist">La liste de lecture est terminée</string>
+	<string name="no_next">Pas de piste suivante</string>
+	<string name="no_last">Pas de piste précédente</string>
+	<string name="ok">Valider</string>
+	<string name="new_pos">Nouvelle position</string>
+	<string name="menu_delete">Vider la liste de lecture</string>
+	<string name="save">Sauvegarde</string>
+	<string name="saving">Sauvegarder</string>
+	<string name="save_replace_or_new">Voulez-vous créer une nouvelle sauvegarde ou remplacer une éxistante ?</string>
+	<string name="new_playlist">Nouvelle</string>
+	<string name="replace_playlist">Remplacer</string>
+	<string name="select_playlist">Sélectionnez une liste de lecture à écraser</string>
+	<string name="replace_playlist_quest">Voulez-vous écraser la liste de lecture ?</string>
+	<string name="enter_playlist_name">Entrez le nom de la liste de lecture</string>
+	<string name="short_name">le nom de la liste de lecture est trop court</string>
+	<string name="long_name">le nom de la liste de lecture est trop long</string>
+	<string name="default_name">le nom de cette liste de lecture est réservé pour l\'enregistrement automatique</string>
+	<string name="add_in_list">Ajouter à la liste de lecture courante</string>
+	<string name="add_and_play_now">Ajouter et lire maintenant</string> 
+	<string name="add_in_new_and_play">Ajouter à une nouvelle liste de lecture</string>
+	<string name="add_in_new_and_play_quest">Cette action va supprimer la liste courante, voulez-vous continuer ?</string>
+	<string name="delete_playlist">Supprimer la liste de lecture</string>
+	<string name="delete_playlist_quest">Voulez-vous supprimer la liste de lecture ?</string>
+	<string name="pref_display">Préférences</string>
+	<string name="theme_color">Couleur du theme:</string>
+	<string name="text">Texte</string>
+	<string name="change">Couleur suivante</string>
+	<string name="nb_column">Nombre de colonnes</string>
+	<string name="active_dark_theme">Utiliser le thème sombre</string>
+	<string name="active_last_playlist">Enregistrement automatique</string>
+	<string name="play_all">Lire toutes les musiques</string>
+	<string name="empty_folder">Aucun fichiers</string>
+	<string name="load">Chargement&#8230;</string>
+	<string name="last_playlist">Dernière liste de lecture</string>
+	<string name="active_color_alternate">Alternance des couleurs</string>
+	<string name="define">Définir la couleur</string>
+	<string name="exit_title">Quitter l\'application</string>
+	<string name="exit_quest">Voulez-vous quitter l\'application ?</string>
+	<string name="playlist_title">Liste de lecture</string>
+	<string name="dev_info_title">A propos de Audio Player</string>
+	<string name="version">Version: v2.4.0</string>
+    <string name="author">Auteur: Julien Dumortier</string>
+    <string name="my_dev_blog">Blog de développement personnel</string>
+    <string name="other_app">Autres applications</string>
+    <string name="infos">Cette application à été réalisée dans le but premier d\'apprendre à utiliser le MediaStore Android mais aussi afin de disposer d\'un lecteur audio simple et fonctionnel.</string>
+	
+</resources>

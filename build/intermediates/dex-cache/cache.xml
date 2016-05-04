@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\wei\Desktop\twistjam\audioplayer1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_6bcb398f70deec536bbe3bc1bf6a2d6309ab6029.jar" />
+    </item>
+    <item
+        jar="C:\Users\wei\Desktop\twistjam\audioplayer1\app\libs\jaudiotagger-2.0.4-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="64606335c6f3fae2742750557b692e7f3319c7dc">
+        <dex dex="C:\Users\wei\Desktop\twistjam\audioplayer1\app\build\intermediates\pre-dexed\debug\jaudiotagger-2.0.4-SNAPSHOT_e9161d1309d87e14a2c9132ab1a4d66b78c29182.jar" />
+    </item>
+
+</items>

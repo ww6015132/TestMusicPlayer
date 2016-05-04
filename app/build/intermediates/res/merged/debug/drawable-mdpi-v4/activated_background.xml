@@ -1,0 +1,25 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item 
+    android:state_focused="true" >
+	    <shape>
+	        <solid android:color="#DADADA" />
+	    </shape>
+	</item>
+   <item android:state_activated="true" >
+	    <shape>
+	        <solid android:color="#DADADA" />
+	    </shape>
+	</item>
+   <item android:state_selected="true"  >
+	    <shape>
+	        <solid android:color="#DADADA" />
+	    </shape>
+	</item>
+   <item android:state_pressed="true"  >
+	    <shape>
+	        <solid android:color="#BABABA" />
+	    </shape>
+	</item>
+
+</selector>

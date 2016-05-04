@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+    <item
+        android:id="@+id/menu_equa"
+        android:icon="@drawable/ic_menu_equa"
+        android:showAsAction="always"
+        android:title="@string/equalizer"/>
+    
+    <item
+        android:id="@+id/menu_playlist"
+        android:icon="@drawable/ic_menu_moreoverflow"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_playlist"/>
+    <item
+        android:id="@+id/menu_remove_all"
+        android:icon="@drawable/ic_menu_delete"
+        android:showAsAction="never"
+        android:title="@string/menu_delete"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_preferences"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+</menu>

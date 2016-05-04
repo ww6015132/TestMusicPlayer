@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+		android:background="#EFEFEF">
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" 
+		android:weightSum="100">
+		
+	    
+	    <!-- auteur -->
+	    <TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="30dip"
+		    android:layout_marginBottom="8dip"
+		    android:layout_marginLeft="25dip"
+		    android:layout_marginRight="20dip"
+		    android:textColor="#000000"
+		    android:text="@string/author"/>
+	    <!-- version -->
+	    <TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="8dip"
+		    android:layout_marginBottom="10dip"
+		    android:layout_marginLeft="25dip"
+		    android:layout_marginRight="20dip"
+		    android:textColor="#000000"
+		    android:text="@string/version"/>
+	    
+	    <RelativeLayout 
+		    android:layout_width="fill_parent"
+		    android:layout_height="1px"
+		    android:layout_marginLeft="15dip"
+		    android:layout_marginRight="15dip"
+		    android:layout_marginTop="10dip"
+		    android:layout_marginBottom="10dip"
+		    android:background="#2485c8"/>
+	    
+	    <!-- infos -->
+	    <TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dip"
+		    android:layout_marginBottom="10dip"
+		    android:layout_marginLeft="25dip"
+		    android:layout_marginRight="20dip"
+		    android:textColor="#000000"
+		    android:text="@string/infos"/>
+	    
+	    <RelativeLayout 
+		    android:layout_width="fill_parent"
+		    android:layout_height="1px"
+		    android:layout_marginLeft="15dip"
+		    android:layout_marginRight="15dip"
+		    android:layout_marginTop="10dip"
+		    android:layout_marginBottom="10dip"
+		    android:background="#2485c8"/>
+	    
+	    <!-- infos -->
+	    <TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="12dip"
+		    android:layout_marginLeft="15dip"
+		    android:layout_marginRight="20dip"
+		    android:autoLink="web"
+		    android:textColor="#000000"
+		    android:text="@string/my_dev_blog"/>
+	    <TextView 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="15dip"
+		    android:layout_marginBottom="15dip"
+		    android:layout_marginLeft="25dip"
+		    android:layout_marginRight="20dip"
+		    android:autoLink="web"
+		    android:textColor="#DEDEDE"
+		    android:text="http://julien-dumortier.fr"/>
+	    
+	    
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" 
+			android:id="@+id/contact">
+		    <RelativeLayout 
+			    android:layout_width="fill_parent"
+			    android:layout_height="1px"
+			    android:layout_marginLeft="15dip"
+			    android:layout_marginRight="15dip"
+			    android:layout_marginTop="10dip"
+			    android:layout_marginBottom="10dip"
+			    android:background="#2485c8"/>
+		    <TextView 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_marginTop="12dip"
+			    android:layout_marginBottom="8dip"
+			    android:layout_marginLeft="15dip"
+			    android:layout_marginRight="20dip"
+			    android:autoLink="web"
+			    android:textColor="#000000"
+			    android:text="@string/send_comment"/>
+		    <EditText 
+		        android:id="@+id/from"
+		        android:layout_width="match_parent"
+		        android:layout_marginLeft="15dip"
+		        android:layout_marginRight="15dip"
+		        android:layout_height="wrap_content"
+		        android:singleLine="true"
+		        android:maxLength="40"
+		        android:hint="@string/from"/>
+		    <EditText 
+		        android:id="@+id/subject"
+		        android:layout_width="match_parent"
+		        android:layout_marginLeft="15dip"
+		        android:layout_marginRight="15dip"
+		        android:layout_height="wrap_content"
+		        android:singleLine="true"
+		        android:maxLength="40"
+		        android:hint="@string/subject"/>
+		    <EditText 
+		        android:id="@+id/body"
+		        android:layout_width="match_parent"
+		        android:layout_marginLeft="15dip"
+		        android:layout_marginRight="15dip"
+		        android:layout_height="wrap_content"
+		        android:minLines="4"
+		        android:maxLength="2500"
+		        android:hint="@string/body"/>
+			<Button 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_marginRight="20dip"
+			    android:layout_gravity="right"
+			    android:id="@+id/sendButton"
+			    android:text="@string/send"/>
+		</LinearLayout>
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.julien_dumortier.simplemusicplayer"
+    android:versionCode="0024"
+    android:versionName="2.4.2" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="14" />
+    
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.BLUETOOTH" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:largeHeap="true"
+        android:icon="@drawable/ic_launcher"
+        android:name=".widget.AudioPlayerApplication"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+		<receiver android:name="fr.julien_dumortier.simplemusicplayer.service.bluetoohactionmanager.BluetoothReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".widget.AudioPlayerWidgetProvider" android:label="AudioPlayer Widget">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+				<action android:name="android.appwidget.action.APPWIDGET_ENABLE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/audio_player_widgetprovider_2x2" />
+		</receiver>
+        <service android:name="fr.julien_dumortier.simplemusicplayer.service.MusicPlayerService"
+            android:enabled="true"/>
+        <service android:name="fr.julien_dumortier.simplemusicplayer.service.notificationplayer.NotificationManagerService"></service>
+        <activity
+            android:name="fr.julien_dumortier.simplemusicplayer.MainActivity"
+            android:label="@string/app_name" android:taskAffinity=""
+                android:launchMode="singleTask"
+                android:clearTaskOnLaunch="true"
+        		android:theme="@style/AppTheme2" 
+                android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.example.simplemusicplayer.PLAY_VIEWER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+			  <action android:name="android.intent.action.MEDIA_MOUNTED" />
+			  <data android:scheme="file" /> 
+			</intent-filter>
+        </activity>
+        
+        <activity
+  			android:name="fr.julien_dumortier.simplemusicplayer.equalizer.EqualizerActivity"
+            android:label="@string/app_name" 
+                android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+  			android:name="fr.julien_dumortier.simplemusicplayer.thememanager.ManageDisplayView"
+            android:label="@string/app_name" 
+                android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="fr.julien_dumortier.simplemusicplayer.playlistview.PlayListManagerActivity"
+            android:label="@string/app_name" 
+                android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="fr.julien_dumortier.simplemusicplayer.playerview.FullScreenPlayerViewController"
+            android:label="@string/app_name" 
+                android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
